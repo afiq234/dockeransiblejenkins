@@ -25,4 +25,4 @@
         image: "fiqman/hariapp:{{DOCKER_TAG}}"
         state: started
         published_ports:
-          - 0.0.0.0:8085:8080
+          - 10.0.2.15:8085:8080
